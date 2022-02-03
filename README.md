@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akscntst
+- 👋 Hi, I’m @Ankit
 - 👀 I’m interested in ...Machine learning
 - 📫 How to reach me ...ping me on ankit27596@gmail.com
 
